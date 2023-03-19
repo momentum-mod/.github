@@ -4,7 +4,9 @@ This is the Github organization for all open-source parts of [Momentum Mod](http
 
 We welcome contributions to all active repositories in the organization, but please either work on changes mentioned on issues boards, or first discuss other potential features with us in our [Discord](http://discord.gg/momentummod).
 
-We request all contributions follow these guidelines in all repositories (besides docs):
+## Contribution Guidelines
+
+We request all contributions follow these guidelines in all repositories, (besides purely content-based such as docs):
 
  - Keep your branch up-to-date by rebasing, not using merge commits. We consider merge commits to be a major detriment to the quality of a Git repo, and will always ask you to remove any merge commits in code review, even if this means force-pushing.
  - Keep your commits clean and simple, splitting all changes into separate commits.
